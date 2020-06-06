@@ -8,7 +8,8 @@
 
 <p>Para el uso de este ejemplo en particular, desde la interfaz de processing, se abre el archivo que se encuentra en la carpeta Cliente, llamado <a href="https://github.com/AndresBaquero-00/ModelosI/blob/master/BuilderAbstractFactory/Cliente/Cliente.pde">cliente.pde</a>. Una vez abierto, se ejecuta con el comando <code>ctrl + r</code>, o haciendo click en la parte de ejecutar.</p>
 
-
+<h3>Ejemplo interfaz del programa</h3>
+<img src="/Imagenes/Processing.png">
 
 
 ### Diagrama
