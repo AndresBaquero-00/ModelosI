@@ -2,7 +2,11 @@
 
 2. git init
 
+<<<<<<< HEAD
 3.git remote add origin https://github.com/AndresBaquero-00/ModelosI
+=======
+3.git remote add origin https://github.com/AndresBaquero-00/CienciasDeLaComputacion
+>>>>>>> 20bfc67f3d171166613c7c64f445f53d16462ed6
 
 4. git add .
 
@@ -12,6 +16,9 @@
 
 5. git commit -m "first commit"
 
+<<<<<<< HEAD
 6. git pull origin master
 
+=======
+>>>>>>> 20bfc67f3d171166613c7c64f445f53d16462ed6
 6. git push -u origin master

@@ -35,6 +35,18 @@
     <h4>Implementacion</h4>
     <img src="/Imagenes/FactoryMethod/EjemploFactoryMethod.jpg" alt="Ejemplo Factory Method" width="750" height="300">
   </li>
-  <li>Protoype</li>
-  <li>Singleton</li>
+  <li>
+    Protoype
+    <p>Especifica los tipos de objetos a crear por medio de una instancia prototípica, y crear nuevos objetos copiando este prototipo.</p>
+    <img src="/Imagenes/Prototype/prototype.gif" alt="Prototype" width="600" height="300">
+    <h4>Implementacion</h4>
+    <img src="/Imagenes/Prototype/EjemploPrototype.gif" alt="Ejemplo Prototype" width="750" height="300">
+  </li>
+  <li>
+    Singleton
+    <p>Garantiza que una clase sólo tenga una instancia, y proporciona un punto de acceso global a ella.</p>
+    <img src="/Imagenes/Singleton/Singleton.gif" alt="Singleton" width="600" height="300">
+    <h4>Implementacion</h4>
+    <img src="/Imagenes/Singleton/Ejemplo.jpg" alt="Ejemplo Singleton" width="400" height="450">
+  </li>
 </ul>
