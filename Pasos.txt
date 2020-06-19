@@ -1,0 +1,17 @@
+1. Instalar git
+
+2. git init
+
+3.git remote add origin https://github.com/AndresBaquero-00/ModelosI
+
+4. git add .
+
+5. git config --global user.email "andres.baquero6@gmail.com"
+
+6. git config --global user.name "AndresBaquero-00"
+
+5. git commit -m "first commit"
+
+6. git pull origin master
+
+6. git push -u origin master
