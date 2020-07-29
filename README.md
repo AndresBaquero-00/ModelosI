@@ -69,41 +69,41 @@
     <p>Desvincula una abstracción de su implementación, de manera que ambas puedan variar de forma independiente.</p>
     <img src="/Imagenes/Bridge/bridge.png" alt="Bridge">
     <h4>Implementacion</h4>
-    <img src="/Imagenes/Bridge/EjemploBridge.png" alt="Ejemplo Bridge" width="450" height="300">
+    <img src="/Imagenes/Bridge/ejemploBridge.jpg" alt="Ejemplo Bridge" width="450" height="300">
   </li>
   <li>
     Composite
     <p>Combina objetos en estructuras de árbol para representar jerarquías de parte-todo. Permite que los clientes traten de manera uniforme a los objetos individuales y a los compuestos.</p>
     <img src="/Imagenes/Composite/composite.png" alt="Composite">
     <h4>Implementacion</h4>
-    <img src="/Imagenes/Composite/Composite.jpg" alt="Ejemplo Composite" width="750" height="300">
+    <img src="/Imagenes/Composite/ejemploComposite.gif" alt="Ejemplo Composite" width="750" height="300">
   </li>
   <li>
     Decorator
     <p>Añade dinámicamente nuevas responsabilidades a un objeto, proporcionando una alternativa flexible a la herencia para extender la funcionalidad.</p>
     <img src="/Imagenes/Decorator/decorator.png" alt="Decorator">
     <h4>Implementacion</h4>
-    <img src="/Imagenes/Decorator/EjemploDecorator.gif" alt="Ejemplo Decorator" width="750" height="300">
+    <img src="/Imagenes/Decorator/ejemploDecorator.jpg" alt="Ejemplo Decorator" width="750" height="300">
   </li>
   <li>
     Facade
     <p>Proporciona una interfaz unificada para un conjunto de interfaces de un subsistema. Define una interfaz de alto nivel que hace que el subsistema se más fácil de usar.</p>
     <img src="/Imagenes/Facade/facade.png" alt="Facade">
     <h4>Implementacion</h4>
-    <img src="/Imagenes/Facade/Ejemplo.jpg" alt="Ejemplo Facade" width="400" height="450">
+    <img src="/Imagenes/Facade/ejemploFacade.jpg" alt="Ejemplo Facade" width="400" height="450">
   </li>
   <li>
     Flyweight
     <p>Usa el compartimiento para permitir un gran número de objetos de grano fino de forma eficiente.</p>
     <img src="/Imagenes/Flyweight/flyweight.png" alt="Flyweight">
     <h4>Implementacion</h4>
-    <img src="/Imagenes/Flyweight/Flyweight.jpg" alt="Ejemplo Flyweight" width="400" height="450">
+    <img src="/Imagenes/Flyweight/ejemploFlyweight.gif" alt="Ejemplo Flyweight" width="400" height="450">
   </li>
   <li>
     Proxy
     <p>Proporciona un sustituto o representante de otro objeto para controlar el acceso a éste.</p>
     <img src="/Imagenes/Proxy/proxy.png" alt="Proxy">
     <h4>Implementacion</h4>
-    <img src="/Imagenes/Proxy/Proxy.jpg" alt="Ejemplo Proxy" width="400" height="450">
+    <img src="/Imagenes/Proxy/ejemploProxy.png" alt="Ejemplo Proxy" width="400" height="450">
   </li>
 </ul>
